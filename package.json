@@ -11,7 +11,7 @@
   "author": "Wang Zuo",
   "license": "MIT",
   "dependencies": {
-    "es6-promise": "^3.0.2",
+    "es6-promise": "^4.0.5",
     "object-assign": "^4.0.1",
     "storage2": "0.0.2",
     "superagent": "^1.2.0"
