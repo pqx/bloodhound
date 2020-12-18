@@ -1,6 +1,6 @@
 {
   "name": "bloodhound-with-request-headers-support-js",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "bloodhound.js with request header support for node and browser",
   "main": "index.js",
   "scripts": {
