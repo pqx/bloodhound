@@ -1,3 +1,59 @@
+# v0.0.3 (Fri Dec 18 2020)
+
+#### ⚠️ Pushed to `master`
+
+- modified .gitignore (visualjeff@icloud.com)
+- Getting ready to ship to NPM ([@visualjeff](https://github.com/visualjeff))
+- Added support for request headers ([@visualjeff](https://github.com/visualjeff))
+- updated vulnerable dependencies ([@stigtsp](https://github.com/stigtsp))
+- fix npmignore ([@wangzuo](https://github.com/wangzuo))
+- 1.2.3 ([@wangzuo](https://github.com/wangzuo))
+- update deps ([@wangzuo](https://github.com/wangzuo))
+- fmt ([@wangzuo](https://github.com/wangzuo))
+- added travis status badge ([@stigtsp](https://github.com/stigtsp))
+- added travis and fixed tests ([@stigtsp](https://github.com/stigtsp))
+- update superagent dependency to the latest ([@nasiamakryg](https://github.com/nasiamakryg))
+- fix #7 ([@wangzuo](https://github.com/wangzuo))
+- 1.2.1 ([@wangzuo](https://github.com/wangzuo))
+- remove remnant from jquery dep (daniel+github@betaworks.com)
+- fix typo ([@wangzuo](https://github.com/wangzuo))
+- add tape ([@wangzuo](https://github.com/wangzuo))
+- remove babeljs ([@wangzuo](https://github.com/wangzuo))
+- add webpack ([@wangzuo](https://github.com/wangzuo))
+- add babelrc ([@wangzuo](https://github.com/wangzuo))
+- add /dist ([@wangzuo](https://github.com/wangzuo))
+- Pass response to callback function ([@sck-v](https://github.com/sck-v))
+- 1.2.0 ([@wangzuo](https://github.com/wangzuo))
+- update example ([@wangzuo](https://github.com/wangzuo))
+- location polyfill fix #2 ([@wangzuo](https://github.com/wangzuo))
+- 1.1.0 ([@wangzuo](https://github.com/wangzuo))
+- add node-examples ([@wangzuo](https://github.com/wangzuo))
+- update readme ([@wangzuo](https://github.com/wangzuo))
+- fix prefetch promise ([@wangzuo](https://github.com/wangzuo))
+- add bloodhound.min.js ([@wangzuo](https://github.com/wangzuo))
+- package fix ([@wangzuo](https://github.com/wangzuo))
+- update doc fix #1 ([@wangzuo](https://github.com/wangzuo))
+- fix promise and ajax on server side ([@wangzuo](https://github.com/wangzuo))
+- transport fix ([@wangzuo](https://github.com/wangzuo))
+- add storage2 ([@wangzuo](https://github.com/wangzuo))
+- options_parser exports fix ([@wangzuo](https://github.com/wangzuo))
+- fix VERSION ([@wangzuo](https://github.com/wangzuo))
+- jasmine and spec ([@wangzuo](https://github.com/wangzuo))
+- initial commit ([@wangzuo](https://github.com/wangzuo))
+- Initial commit ([@wangzuo](https://github.com/wangzuo))
+
+#### Authors: 7
+
+- Daniel Ilkovich (daniel+github@betaworks.com)
+- Ivan Kryak ([@sck-v](https://github.com/sck-v))
+- Jeff ([@visualjeff](https://github.com/visualjeff))
+- JeffreyGilbert (visualjeff@icloud.com)
+- Nasia Makrygianni ([@nasiamakryg](https://github.com/nasiamakryg))
+- stigo ([@stigtsp](https://github.com/stigtsp))
+- Wang Zuo ([@wangzuo](https://github.com/wangzuo))
+
+---
+
 # v0.0.2 (Fri Dec 18 2020)
 
 #### ⚠️ Pushed to `master`
